@@ -1,0 +1,10 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+avd = "Nexus_5_API_22"
+app = "./features/support/SeriesGuide-free-debug.apk"
+
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""

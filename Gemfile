@@ -1,0 +1,10 @@
+source 'https://www.rubygems.org'
+
+gem 'appium_lib',         '~> 6.0.0'
+gem 'cucumber',           '~> 1.3.15'
+gem 'rspec-expectations', '~> 2.14.5'
+gem 'page-object', '1.0.2'
+gem 'watir-webdriver', '0.8.0'
+gem 'selenium-webdriver' , '2.47.1'
+gem 'pry'
+gem 'pry-nav'
